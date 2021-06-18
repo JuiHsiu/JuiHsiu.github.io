@@ -12,7 +12,7 @@ email: juihsiuhsu@gmail.com
 website: https://juihsiu.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: jekyll
@@ -48,7 +48,7 @@ linkedin_username: juihsiuhsu
 # about_title: About Me
 about_profile_image: https://raw.githubusercontent.com/JuiHsiu/JuiHsiu.github.io/main/images/Capoo.GIF #images/Capoo.GIF
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Eddy. I am going to be a software engineer. 
+  Hi, my name is Eddy. I am going to become a software engineer. 
 
   I love Capoo. Capoo No.1.
 # I am most skilled in: <mark>Machine Learning</mark> and <mark>Python</mark>.
